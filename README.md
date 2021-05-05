@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 #### 👷 My latest contributions
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (5 days ago)
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (5 days ago)
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (1 week ago)
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 day ago)
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (1 day ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (2 weeks ago)
 
 #### 🌱 My latest projects
 
