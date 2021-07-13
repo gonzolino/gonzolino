@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 #### 👷 My latest contributions
 
-- [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt (today)
+- [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt (1 day ago)
+- [kayrus/kuttle](https://github.com/kayrus/kuttle) - Kubernetes wrapper for sshuttle (1 day ago)
 - [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 week ago)
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (1 week ago)
 
 #### 🌱 My latest projects
 
