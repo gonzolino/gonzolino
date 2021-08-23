@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 #### 👷 My latest contributions
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 week ago)
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (1 week ago)
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (2 weeks ago)
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (2 weeks ago)
 - [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt (1 month ago)
 
 #### 🌱 My latest projects
@@ -18,4 +18,3 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.2.0](https://github.com/gonzolino/tado-window-control/releases/tag/v1.2.0), 2 weeks ago) - Cloud function to control the window state of a tado zone
 - [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v0.3.0](https://github.com/gonzolino/gotado/releases/tag/v0.3.0), 1 month ago) - Go client for the tado° Web API
-- [brutella/hc](https://github.com/brutella/hc) ([v1.2.3](https://github.com/brutella/hc/releases/tag/v1.2.3), 10 months ago) - hc is a lightweight framework to develop HomeKit accessories in Go.
