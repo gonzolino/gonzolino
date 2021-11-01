@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 #### 👷 My latest contributions
 
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (5 days ago)
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (1 week ago)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (6 days ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (2 weeks ago)
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (3 weeks ago)
 
 #### 🌱 My latest projects
