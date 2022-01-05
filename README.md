@@ -4,15 +4,15 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 #### 👷 My latest contributions
 
+- [gonzolino/argocd](https://github.com/gonzolino/argocd) - ArgoCD tests (1 day ago)
 - [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (2 weeks ago)
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (2 weeks ago)
-- [gonzolino/.github](https://github.com/gonzolino/.github) - Community health files (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [gonzolino/argocd](https://github.com/gonzolino/argocd) - ArgoCD tests
 - [gonzolino/.github](https://github.com/gonzolino/.github) - Community health files
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API
 
 #### 🔭 Latest releases I've contributed to
 
