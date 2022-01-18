@@ -4,7 +4,7 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 #### 👷 My latest contributions
 
-- [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt (1 day ago)
+- [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt (2 days ago)
 - [gonzolino/argocd](https://github.com/gonzolino/argocd) - ArgoCD tests (1 week ago)
 - [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 month ago)
 
