@@ -6,7 +6,7 @@ I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stu
 
 - [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (1 week ago)
 - [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) - Kubernetes cloud-provider for KubeVirt (1 week ago)
-- [gonzolino/argocd](https://github.com/gonzolino/argocd) - ArgoCD tests (2 weeks ago)
+- [gonzolino/argocd](https://github.com/gonzolino/argocd) - ArgoCD tests (3 weeks ago)
 
 #### 🌱 My latest projects
 
