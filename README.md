@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, a Cloud Architect working with Kubernetes and other cloud-native stuff.
+I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cloud-native stuff.
 
 #### 👷 My latest contributions
 
