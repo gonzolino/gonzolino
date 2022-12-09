@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (1 day ago)
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (4 days ago)
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (6 days ago)
+- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (2 days ago)
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (5 days ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
 
