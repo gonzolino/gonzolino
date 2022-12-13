@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (3 days ago)
-- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (5 days ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (4 days ago)
+- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (6 days ago)
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (1 week ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.0.2](https://github.com/gonzolino/gotado/releases/tag/v2.0.2), 2 weeks ago) - Go client for the tado° Web API
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.0.2](https://github.com/gonzolino/gotado/releases/tag/v2.0.2), 3 weeks ago) - Go client for the tado° Web API
 - [kubevirt/cloud-provider-kubevirt](https://github.com/kubevirt/cloud-provider-kubevirt) ([v0.4.0](https://github.com/kubevirt/cloud-provider-kubevirt/releases/tag/v0.4.0), 1 month ago) - Kubernetes cloud-provider for KubeVirt
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.5.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.5.1), 7 months ago) - Cloud function to control the window state of a tado zone
