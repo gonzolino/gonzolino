@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.0.3](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.0.3), 1 day ago) - Terraform provider for Tado
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.0.4](https://github.com/gonzolino/gotado/releases/tag/v2.0.4), 1 day ago) - Go client for the tado° Web API
-- [trstringer/manual-approval](https://github.com/trstringer/manual-approval) ([v1.9.0](https://github.com/trstringer/manual-approval/releases/tag/v1.9.0), 3 days ago) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.0.5](https://github.com/gonzolino/gotado/releases/tag/v2.0.5), 1 day ago) - Go client for the tado° Web API
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.6.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.6.1), 1 day ago) - Cloud function to control the window state of a tado zone
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.0.6](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.0.6), 1 day ago) - Terraform provider for Tado
