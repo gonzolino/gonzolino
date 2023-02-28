@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 day ago)
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (6 days ago)
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (6 days ago)
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (2 days ago)
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (1 week ago)
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.0.5](https://github.com/gonzolino/gotado/releases/tag/v2.0.5), 6 days ago) - Go client for the tado° Web API
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.6.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.6.1), 6 days ago) - Cloud function to control the window state of a tado zone
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.0.6](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.0.6), 6 days ago) - Terraform provider for Tado
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.0.5](https://github.com/gonzolino/gotado/releases/tag/v2.0.5), 1 week ago) - Go client for the tado° Web API
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.6.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.6.1), 1 week ago) - Cloud function to control the window state of a tado zone
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.0.6](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.0.6), 1 week ago) - Terraform provider for Tado
