@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.1.0](https://github.com/gonzolino/gotado/releases/tag/v2.1.0), 3 weeks ago) - Go client for the tado° Web API
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.1.0](https://github.com/gonzolino/gotado/releases/tag/v2.1.0), 4 weeks ago) - Go client for the tado° Web API
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.6.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.6.1), 6 months ago) - Cloud function to control the window state of a tado zone
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.0.6](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.0.6), 6 months ago) - Terraform provider for Tado
