@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (3 days ago)
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (3 days ago)
-- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (4 days ago)
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (today)
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (4 days ago)
+- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.1.1](https://github.com/gonzolino/gotado/releases/tag/v2.1.1), 3 days ago) - Go client for the tado° Web API
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.7.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.7.1), 3 days ago) - Cloud function to control the window state of a tado zone
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.1.1](https://github.com/gonzolino/gotado/releases/tag/v2.1.1), 4 days ago) - Go client for the tado° Web API
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.7.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.7.1), 4 days ago) - Cloud function to control the window state of a tado zone
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.0.6](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.0.6), 2 years ago) - Terraform provider for Tado
