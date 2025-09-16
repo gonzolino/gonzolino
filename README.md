@@ -4,15 +4,15 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (4 days ago)
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (6 days ago)
-- [ironcore-dev/machine-controller-manager-provider-ironcore](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore) - Gardener machine controller manager provider for IronCore (1 week ago)
+- [gonzolino/dependabot-test](https://github.com/gonzolino/dependabot-test) -  (1 day ago)
+- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) -  Gardener extension controller for the IronCore Metal API cloud provider  (1 day ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (5 days ago)
 
 #### 🌱 My latest projects
 
+- [gonzolino/dependabot-test](https://github.com/gonzolino/dependabot-test) - 
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado
 - [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones
-- [gonzolino/argocd](https://github.com/gonzolino/argocd) - ArgoCD tests
 
 #### 🔭 Latest releases I've contributed to
 
