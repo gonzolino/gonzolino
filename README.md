@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (4 days ago)
-- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) - Kubernetes cloud controller manager for the IronCore metal API (5 days ago)
-- [ironcore-dev/ironcore-csi-driver](https://github.com/ironcore-dev/ironcore-csi-driver) - Kubernetes Container Storage Interface (CSI) Driver for IronCore  (5 days ago)
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (1 day ago)
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (5 days ago)
+- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) - Kubernetes cloud controller manager for the IronCore metal API (6 days ago)
 
 #### 🌱 My latest projects
 
