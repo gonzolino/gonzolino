@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (1 day ago)
-- [gonzolino/ocm-test](https://github.com/gonzolino/ocm-test) -  (5 days ago)
+- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (2 days ago)
+- [gonzolino/ocm-test](https://github.com/gonzolino/ocm-test) -  (6 days ago)
 - [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 week ago)
 
 #### 🌱 My latest projects
