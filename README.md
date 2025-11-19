@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (5 days ago)
-- [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) - kubectl plugin for ironcore (6 days ago)
+- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (6 days ago)
+- [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) - kubectl plugin for ironcore (1 week ago)
 - [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 week ago)
 
 #### 🌱 My latest projects
@@ -18,4 +18,4 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 - [gonzolino/ocm-test](https://github.com/gonzolino/ocm-test) ([v0.0.5](https://github.com/gonzolino/ocm-test/releases/tag/v0.0.5), 2 weeks ago) - 
 - [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) ([v0.5.1](https://github.com/ironcore-dev/gardener-extension-provider-ironcore/releases/tag/v0.5.1), 2 weeks ago) - Gardener extension controller for the IronCore cloud provider
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.3.0](https://github.com/gonzolino/gotado/releases/tag/v2.3.0), 2 weeks ago) - Go client for the tado° Web API
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.3.0](https://github.com/gonzolino/gotado/releases/tag/v2.3.0), 3 weeks ago) - Go client for the tado° Web API
