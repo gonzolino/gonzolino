@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (1 day ago)
 - [ironcore-dev/ironcore-image](https://github.com/ironcore-dev/ironcore-image) - IronCore OCI Image Specification, Library and Tooling (3 weeks ago)
 - [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) -  Gardener extension controller for the IronCore Metal API cloud provider  (3 weeks ago)
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.1.0](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.1.0), today) - Terraform provider for Tado
 - [apple/container](https://github.com/apple/container) ([0.7.1](https://github.com/apple/container/releases/tag/0.7.1), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 - [gonzolino/ocm-test](https://github.com/gonzolino/ocm-test) ([v0.0.5](https://github.com/gonzolino/ocm-test/releases/tag/v0.0.5), 1 month ago) - 
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) ([v0.5.1](https://github.com/ironcore-dev/gardener-extension-provider-ironcore/releases/tag/v0.5.1), 1 month ago) - Gardener extension controller for the IronCore cloud provider
