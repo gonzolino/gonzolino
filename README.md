@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (1 day ago)
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (2 weeks ago)
 - [ironcore-dev/ironcore-image](https://github.com/ironcore-dev/ironcore-image) - IronCore OCI Image Specification, Library and Tooling (1 month ago)
-- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) -  Gardener extension controller for the IronCore Metal API cloud provider  (1 month ago)
 
 #### 🌱 My latest projects
 
