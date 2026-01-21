@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) ([v0.1.0](https://github.com/ironcore-dev/cloud-provider-metal/releases/tag/v0.1.0), 6 days ago) - Kubernetes cloud controller manager for the IronCore metal API
+- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) ([v0.1.0](https://github.com/ironcore-dev/cloud-provider-metal/releases/tag/v0.1.0), 1 week ago) - Kubernetes cloud controller manager for the IronCore metal API
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) ([v1.1.0](https://github.com/gonzolino/terraform-provider-tado/releases/tag/v1.1.0), 3 weeks ago) - Terraform provider for Tado
 - [apple/container](https://github.com/apple/container) ([0.7.1](https://github.com/apple/container/releases/tag/0.7.1), 1 month ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
