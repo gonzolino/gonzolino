@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (1 week ago)
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (4 weeks ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (2 weeks ago)
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (1 month ago)
 - [ironcore-dev/ironcore-image](https://github.com/ironcore-dev/ironcore-image) - IronCore OCI Image Specification, Library and Tooling (1 month ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [apple/container](https://github.com/apple/container) ([0.8.0](https://github.com/apple/container/releases/tag/0.8.0), 3 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [ironcore-dev/machine-controller-manager-provider-ironcore-metal](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore-metal) ([v0.1.0](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore-metal/releases/tag/v0.1.0), 3 days ago) -  Gardener machine controller manager provider for bare metal server management
+- [apple/container](https://github.com/apple/container) ([0.8.0](https://github.com/apple/container/releases/tag/0.8.0), 4 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [ironcore-dev/machine-controller-manager-provider-ironcore-metal](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore-metal) ([v0.1.0](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore-metal/releases/tag/v0.1.0), 4 days ago) -  Gardener machine controller manager provider for bare metal server management
 - [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) ([v0.1.0](https://github.com/ironcore-dev/cloud-provider-metal/releases/tag/v0.1.0), 1 week ago) - Kubernetes cloud controller manager for the IronCore metal API
