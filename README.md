@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) ([v0.3.0](https://github.com/ironcore-dev/kubectl-ironcore/releases/tag/v0.3.0), 3 days ago) - kubectl plugin for ironcore
+- [ironcore-dev/ironcore-image](https://github.com/ironcore-dev/ironcore-image) ([v0.2.6](https://github.com/ironcore-dev/ironcore-image/releases/tag/v0.2.6), 1 day ago) - IronCore OCI Image Specification, Library and Tooling
+- [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) ([v0.3.0](https://github.com/ironcore-dev/kubectl-ironcore/releases/tag/v0.3.0), 4 days ago) - kubectl plugin for ironcore
 - [apple/container](https://github.com/apple/container) ([0.8.0](https://github.com/apple/container/releases/tag/0.8.0), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [ironcore-dev/machine-controller-manager-provider-ironcore-metal](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore-metal) ([v0.1.0](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore-metal/releases/tag/v0.1.0), 1 week ago) -  Gardener machine controller manager provider for bare metal server management
