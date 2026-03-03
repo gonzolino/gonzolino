@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (1 day ago)
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (1 day ago)
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) - Go client for the tado° Web API (2 days ago)
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (2 days ago)
 - [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.8.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.8.1), 1 day ago) - Cloud function to control the window state of a tado zone
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.3.1](https://github.com/gonzolino/gotado/releases/tag/v2.3.1), 1 day ago) - Go client for the tado° Web API
-- [apple/container](https://github.com/apple/container) ([0.10.0](https://github.com/apple/container/releases/tag/0.10.0), 4 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.8.1](https://github.com/gonzolino/tado-window-control/releases/tag/v1.8.1), 2 days ago) - Cloud function to control the window state of a tado zone
+- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.3.1](https://github.com/gonzolino/gotado/releases/tag/v2.3.1), 2 days ago) - Go client for the tado° Web API
+- [apple/container](https://github.com/apple/container) ([0.10.0](https://github.com/apple/container/releases/tag/0.10.0), 5 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
