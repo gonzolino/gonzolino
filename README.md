@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (5 days ago)
-- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) -  Gardener extension controller for the IronCore Metal API cloud provider  (5 days ago)
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (6 days ago)
+- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) -  Gardener extension controller for the IronCore Metal API cloud provider  (6 days ago)
 - [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) - kubectl plugin for ironcore (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.9.0](https://github.com/gonzolino/tado-window-control/releases/tag/v1.9.0), 5 days ago) - Cloud function to control the window state of a tado zone
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.3.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.3.0), 1 day ago) - Cloud Native Infrastructure as a Service
+- [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.9.0](https://github.com/gonzolino/tado-window-control/releases/tag/v1.9.0), 6 days ago) - Cloud function to control the window state of a tado zone
 - [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) ([v0.2.0](https://github.com/ironcore-dev/cloud-provider-metal/releases/tag/v0.2.0), 3 weeks ago) - Kubernetes cloud controller manager for the IronCore metal API
-- [gonzolino/gotado](https://github.com/gonzolino/gotado) ([v2.3.1](https://github.com/gonzolino/gotado/releases/tag/v2.3.1), 3 weeks ago) - Go client for the tado° Web API
