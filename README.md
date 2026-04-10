@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (1 day ago)
-- [ironcore-dev/vgopath](https://github.com/ironcore-dev/vgopath) - Virtual GOPATH for module enabled projects (2 days ago)
-- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) - Utility library for writing Kubernetes controllers (2 days ago)
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (1 day ago)
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (2 days ago)
+- [ironcore-dev/cloud-provider-ironcore](https://github.com/ironcore-dev/cloud-provider-ironcore) - Kubernetes Cloud Controller Provider implementation for IronCore (3 days ago)
 
 #### 🌱 My latest projects
 
