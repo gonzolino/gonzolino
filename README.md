@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (4 days ago)
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (5 days ago)
-- [ironcore-dev/cloud-provider-ironcore](https://github.com/ironcore-dev/cloud-provider-ironcore) - Kubernetes Cloud Controller Provider implementation for IronCore (6 days ago)
+- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (1 day ago)
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (5 days ago)
+- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [apple/container](https://github.com/apple/container) ([0.11.0](https://github.com/apple/container/releases/tag/0.11.0), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [rook/rook](https://github.com/rook/rook) ([v1.19.3](https://github.com/rook/rook/releases/tag/v1.19.3), 2 weeks ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.3.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.3.0), 2 weeks ago) - Cloud Native Infrastructure as a Service
+- [apple/container](https://github.com/apple/container) ([0.11.0](https://github.com/apple/container/releases/tag/0.11.0), 2 weeks ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [rook/rook](https://github.com/rook/rook) ([v1.19.3](https://github.com/rook/rook/releases/tag/v1.19.3), 3 weeks ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.3.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.3.0), 3 weeks ago) - Cloud Native Infrastructure as a Service
