@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [apple/container](https://github.com/apple/container) ([0.12.3](https://github.com/apple/container/releases/tag/0.12.3), 6 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [rook/rook](https://github.com/rook/rook) ([v1.19.5](https://github.com/rook/rook/releases/tag/v1.19.5), 1 week ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/ironcore-net](https://github.com/ironcore-dev/ironcore-net) ([v0.3.0](https://github.com/ironcore-dev/ironcore-net/releases/tag/v0.3.0), 1 week ago) - Provider specific implementation of ironcore network types
+- [ironcore-dev/machine-controller-manager-provider-ironcore](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore) ([v0.6.0](https://github.com/ironcore-dev/machine-controller-manager-provider-ironcore/releases/tag/v0.6.0), 1 day ago) - Gardener machine controller manager provider for IronCore
+- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) ([v0.3.0](https://github.com/ironcore-dev/cloud-provider-metal/releases/tag/v0.3.0), 1 day ago) - Kubernetes cloud controller manager for the IronCore metal API
+- [apple/container](https://github.com/apple/container) ([0.12.3](https://github.com/apple/container/releases/tag/0.12.3), 1 week ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
