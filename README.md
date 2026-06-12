@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/ironcore-csi-driver](https://github.com/ironcore-dev/ironcore-csi-driver) - Kubernetes Container Storage Interface (CSI) Driver for IronCore  (2 days ago)
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (6 days ago)
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) - Gardener extension controller for the IronCore cloud provider (1 week ago)
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 day ago)
+- [ironcore-dev/ironcore-csi-driver](https://github.com/ironcore-dev/ironcore-csi-driver) - Kubernetes Container Storage Interface (CSI) Driver for IronCore  (3 days ago)
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [apple/container](https://github.com/apple/container) ([1.0.0](https://github.com/apple/container/releases/tag/1.0.0), 2 days ago) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.4.1](https://github.com/ironcore-dev/ironcore/releases/tag/v0.4.1), 1 day ago) - Cloud Native Infrastructure as a Service
+- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.12.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.12.0), 1 day ago) - Utility library for writing Kubernetes controllers
 - [rook/rook](https://github.com/rook/rook) ([v1.20.0](https://github.com/rook/rook/releases/tag/v1.20.0), 1 week ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) ([v0.1.0](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal/releases/tag/v0.1.0), 1 week ago) -  Gardener extension controller for the IronCore Metal API cloud provider 
