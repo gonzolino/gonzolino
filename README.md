@@ -6,7 +6,7 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 - [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 week ago)
 - [ironcore-dev/ironcore-csi-driver](https://github.com/ironcore-dev/ironcore-csi-driver) - Kubernetes Container Storage Interface (CSI) Driver for IronCore  (1 week ago)
-- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (1 week ago)
+- [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [rook/rook](https://github.com/rook/rook) ([v1.20.1](https://github.com/rook/rook/releases/tag/v1.20.1), 2 days ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/ironcore-image](https://github.com/ironcore-dev/ironcore-image) ([v0.5.0](https://github.com/ironcore-dev/ironcore-image/releases/tag/v0.5.0), 2 days ago) - IronCore OCI Image Specification, Library and Tooling
-- [ironcore-dev/ironcore-net](https://github.com/ironcore-dev/ironcore-net) ([v0.4.0](https://github.com/ironcore-dev/ironcore-net/releases/tag/v0.4.0), 6 days ago) - Provider specific implementation of ironcore network types
+- [rook/rook](https://github.com/rook/rook) ([v1.20.1](https://github.com/rook/rook/releases/tag/v1.20.1), 3 days ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/ironcore-image](https://github.com/ironcore-dev/ironcore-image) ([v0.5.0](https://github.com/ironcore-dev/ironcore-image/releases/tag/v0.5.0), 3 days ago) - IronCore OCI Image Specification, Library and Tooling
+- [ironcore-dev/ironcore-net](https://github.com/ironcore-dev/ironcore-net) ([v0.4.0](https://github.com/ironcore-dev/ironcore-net/releases/tag/v0.4.0), 1 week ago) - Provider specific implementation of ironcore network types
