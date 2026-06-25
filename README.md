@@ -4,7 +4,7 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 week ago)
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (2 weeks ago)
 - [ironcore-dev/ironcore-csi-driver](https://github.com/ironcore-dev/ironcore-csi-driver) - Kubernetes Container Storage Interface (CSI) Driver for IronCore  (2 weeks ago)
 - [gonzolino/terraform-provider-tado](https://github.com/gonzolino/terraform-provider-tado) - Terraform provider for Tado (2 weeks ago)
 
