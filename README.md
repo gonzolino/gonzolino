@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (2 days ago)
-- [ironcore-dev/community](https://github.com/ironcore-dev/community) -  (1 week ago)
+- [ironcore-dev/community](https://github.com/ironcore-dev/community) -  (1 day ago)
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (3 days ago)
 - [ironcore-dev/ironcore-dev.github.io](https://github.com/ironcore-dev/ironcore-dev.github.io) - IronCore Project Landing Page and Documentation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [rook/rook](https://github.com/rook/rook) ([v1.20.2](https://github.com/rook/rook/releases/tag/v1.20.2), 2 days ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/ironcore-net](https://github.com/ironcore-dev/ironcore-net) ([v0.4.1](https://github.com/ironcore-dev/ironcore-net/releases/tag/v0.4.1), 1 week ago) - Provider specific implementation of ironcore network types
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.4.2](https://github.com/ironcore-dev/ironcore/releases/tag/v0.4.2), 1 week ago) - Cloud Native Infrastructure as a Service
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) ([v0.4.0](https://github.com/ironcore-dev/ceph-provider/releases/tag/v0.4.0), 1 day ago) - Ceph provider implementation of the IronCore storage interface
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.4.3](https://github.com/ironcore-dev/ironcore/releases/tag/v0.4.3), 1 day ago) - Cloud Native Infrastructure as a Service
+- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) ([v0.5.0](https://github.com/ironcore-dev/cloud-provider-metal/releases/tag/v0.5.0), 1 day ago) - Kubernetes cloud controller manager for the IronCore metal API
