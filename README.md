@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/metalbond](https://github.com/ironcore-dev/metalbond) - Route reflector for IronCore Infrastructure Overlay Network (2 days ago)
-- [ironcore-dev/community](https://github.com/ironcore-dev/community) -  (2 days ago)
-- [ironcore-dev/steering](https://github.com/ironcore-dev/steering) - The IronCore Technical Steering Committee (2 days ago)
+- [ironcore-dev/metal-load-balancer-controller](https://github.com/ironcore-dev/metal-load-balancer-controller) - Service IP announcement controller using the metalbond route reflector (1 day ago)
+- [ironcore-dev/community](https://github.com/ironcore-dev/community) -  (1 day ago)
+- [ironcore-dev/metal-operator](https://github.com/ironcore-dev/metal-operator) - Kubernetes operator for automating bare metal server discovery and provisioning (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) ([v0.4.0](https://github.com/ironcore-dev/ceph-provider/releases/tag/v0.4.0), 6 days ago) - Ceph provider implementation of the IronCore storage interface
-- [ironcore-dev/libvirt-provider](https://github.com/ironcore-dev/libvirt-provider) ([v0.4.0](https://github.com/ironcore-dev/libvirt-provider/releases/tag/v0.4.0), 6 days ago) - Libvirt provider implementation of the IronCore compute interface
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.4.3](https://github.com/ironcore-dev/ironcore/releases/tag/v0.4.3), 6 days ago) - Cloud Native Infrastructure as a Service
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) ([v0.4.0](https://github.com/ironcore-dev/ceph-provider/releases/tag/v0.4.0), 1 week ago) - Ceph provider implementation of the IronCore storage interface
+- [ironcore-dev/libvirt-provider](https://github.com/ironcore-dev/libvirt-provider) ([v0.4.0](https://github.com/ironcore-dev/libvirt-provider/releases/tag/v0.4.0), 1 week ago) - Libvirt provider implementation of the IronCore compute interface
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.4.3](https://github.com/ironcore-dev/ironcore/releases/tag/v0.4.3), 1 week ago) - Cloud Native Infrastructure as a Service
