@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/cloud-provider-ironcore](https://github.com/ironcore-dev/cloud-provider-ironcore) - Kubernetes Cloud Controller Provider implementation for IronCore (1 week ago)
-- [ironcore-dev/metal-maintenance-operator](https://github.com/ironcore-dev/metal-maintenance-operator) - Kubernetes operator to automate bare metal server maintenance  (1 week ago)
-- [ironcore-dev/libvirt-provider](https://github.com/ironcore-dev/libvirt-provider) - Libvirt provider implementation of the IronCore compute interface (1 week ago)
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 day ago)
+- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (1 day ago)
+- [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) - Kubernetes cloud controller manager for the IronCore metal API (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/ironcore-net](https://github.com/ironcore-dev/ironcore-net) ([v0.4.2](https://github.com/ironcore-dev/ironcore-net/releases/tag/v0.4.2), 1 day ago) - Provider specific implementation of ironcore network types
-- [ironcore-dev/metal-operator](https://github.com/ironcore-dev/metal-operator) ([v0.6.2](https://github.com/ironcore-dev/metal-operator/releases/tag/v0.6.2), 5 days ago) - Kubernetes operator for automating bare metal server discovery and provisioning
-- [ironcore-dev/FeDHCP](https://github.com/ironcore-dev/FeDHCP) ([v0.8.4](https://github.com/ironcore-dev/FeDHCP/releases/tag/v0.8.4), 1 week ago) - 
+- [rook/rook](https://github.com/rook/rook) ([v1.20.3](https://github.com/rook/rook/releases/tag/v1.20.3), 1 day ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.5.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.5.0), 1 day ago) - Cloud Native Infrastructure as a Service
+- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.13.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.13.0), 1 day ago) - Utility library for writing Kubernetes controllers
