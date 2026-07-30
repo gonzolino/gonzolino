@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 day ago)
-- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (1 day ago)
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (2 days ago)
+- [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (2 days ago)
 - [ironcore-dev/cloud-provider-metal](https://github.com/ironcore-dev/cloud-provider-metal) - Kubernetes cloud controller manager for the IronCore metal API (1 week ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [rook/rook](https://github.com/rook/rook) ([v1.20.3](https://github.com/rook/rook/releases/tag/v1.20.3), 1 day ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.5.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.5.0), 1 day ago) - Cloud Native Infrastructure as a Service
-- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.13.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.13.0), 1 day ago) - Utility library for writing Kubernetes controllers
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) ([v0.5.0](https://github.com/ironcore-dev/ceph-provider/releases/tag/v0.5.0), 1 day ago) - Ceph provider implementation of the IronCore storage interface
+- [rook/rook](https://github.com/rook/rook) ([v1.20.3](https://github.com/rook/rook/releases/tag/v1.20.3), 2 days ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.5.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.5.0), 2 days ago) - Cloud Native Infrastructure as a Service
