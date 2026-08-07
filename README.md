@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/provider-utils](https://github.com/ironcore-dev/provider-utils) - Utility library for writing controllers (3 days ago)
-- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (4 days ago)
+- [ironcore-dev/provider-utils](https://github.com/ironcore-dev/provider-utils) - Utility library for writing controllers (1 day ago)
+- [gonzolino/dotfiles](https://github.com/gonzolino/dotfiles) - My dotfiles (5 days ago)
 - [gonzolino/terraform-provider-powerdns](https://github.com/gonzolino/terraform-provider-powerdns) - Terraform provider to manage PowerDNS zones (1 week ago)
 
 #### 🌱 My latest projects
