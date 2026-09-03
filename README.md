@@ -4,9 +4,9 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/community](https://github.com/ironcore-dev/community) - Governance documentation and automation (1 day ago)
+- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) -  Gardener extension controller for the IronCore Metal API cloud provider  (1 day ago)
+- [ironcore-dev/community](https://github.com/ironcore-dev/community) - Governance documentation and automation (2 days ago)
 - [ironcore-dev/ironcore-in-a-box](https://github.com/ironcore-dev/ironcore-in-a-box) - IronCore IaaS in a Box (1 week ago)
-- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) - Cloud Native Infrastructure as a Service (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/metal-maintenance-operator](https://github.com/ironcore-dev/metal-maintenance-operator) ([v0.1.0](https://github.com/ironcore-dev/metal-maintenance-operator/releases/tag/v0.1.0), 2 days ago) - Kubernetes operator to automate bare metal server maintenance 
-- [ironcore-dev/metalnet](https://github.com/ironcore-dev/metalnet) ([v0.3.17](https://github.com/ironcore-dev/metalnet/releases/tag/v0.3.17), 5 days ago) - Kubernetes controller managing dpservice networking resources
-- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.14.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.14.0), 5 days ago) - Utility library for writing Kubernetes controllers
+- [rook/rook](https://github.com/rook/rook) ([v1.20.7](https://github.com/rook/rook/releases/tag/v1.20.7), 1 day ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/gardener-extension-provider-ironcore-metal](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal) ([v0.2.0](https://github.com/ironcore-dev/gardener-extension-provider-ironcore-metal/releases/tag/v0.2.0), 1 day ago) -  Gardener extension controller for the IronCore Metal API cloud provider 
+- [ironcore-dev/metal-maintenance-operator](https://github.com/ironcore-dev/metal-maintenance-operator) ([v0.1.0](https://github.com/ironcore-dev/metal-maintenance-operator/releases/tag/v0.1.0), 3 days ago) - Kubernetes operator to automate bare metal server maintenance 
