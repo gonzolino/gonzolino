@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) ([v0.5.0](https://github.com/ironcore-dev/kubectl-ironcore/releases/tag/v0.5.0), 1 day ago) - kubectl plugin for ironcore
+- [ironcore-dev/kubectl-ironcore](https://github.com/ironcore-dev/kubectl-ironcore) ([v0.5.0](https://github.com/ironcore-dev/kubectl-ironcore/releases/tag/v0.5.0), 2 days ago) - kubectl plugin for ironcore
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) ([v1.9.3](https://github.com/gonzolino/tado-window-control/releases/tag/v1.9.3), 1 week ago) - Cloud function to control the window state of a tado zone
 - [ironcore-dev/FeDHCP](https://github.com/ironcore-dev/FeDHCP) ([v0.8.5](https://github.com/ironcore-dev/FeDHCP/releases/tag/v0.8.5), 1 week ago) - 
