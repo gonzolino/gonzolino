@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/metalnet](https://github.com/ironcore-dev/metalnet) ([v0.3.18](https://github.com/ironcore-dev/metalnet/releases/tag/v0.3.18), 1 day ago) - Kubernetes controller managing dpservice networking resources
-- [ironcore-dev/dpservice](https://github.com/ironcore-dev/dpservice) ([v0.4.2](https://github.com/ironcore-dev/dpservice/releases/tag/v0.4.2), 1 day ago) - DPDK based fast Dataplane / L3 router / SDN enabler, installable on compute nodes / SmartNICs
-- [rook/rook](https://github.com/rook/rook) ([v1.20.8](https://github.com/rook/rook/releases/tag/v1.20.8), 2 days ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/metalnet](https://github.com/ironcore-dev/metalnet) ([v0.3.18](https://github.com/ironcore-dev/metalnet/releases/tag/v0.3.18), 2 days ago) - Kubernetes controller managing dpservice networking resources
+- [ironcore-dev/dpservice](https://github.com/ironcore-dev/dpservice) ([v0.4.2](https://github.com/ironcore-dev/dpservice/releases/tag/v0.4.2), 2 days ago) - DPDK based fast Dataplane / L3 router / SDN enabler, installable on compute nodes / SmartNICs
+- [rook/rook](https://github.com/rook/rook) ([v1.20.8](https://github.com/rook/rook/releases/tag/v1.20.8), 3 days ago) - Storage Orchestration for Kubernetes
