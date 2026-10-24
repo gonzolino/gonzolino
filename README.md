@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.15.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.15.0), 2 days ago) - Utility library for writing Kubernetes controllers
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) ([v0.8.1](https://github.com/ironcore-dev/gardener-extension-provider-ironcore/releases/tag/v0.8.1), 3 days ago) - Gardener extension controller for the IronCore cloud provider
+- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.15.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.15.0), 3 days ago) - Utility library for writing Kubernetes controllers
+- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) ([v0.8.1](https://github.com/ironcore-dev/gardener-extension-provider-ironcore/releases/tag/v0.8.1), 4 days ago) - Gardener extension controller for the IronCore cloud provider
 - [ironcore-dev/cloud-provider-ironcore](https://github.com/ironcore-dev/cloud-provider-ironcore) ([v0.7.0](https://github.com/ironcore-dev/cloud-provider-ironcore/releases/tag/v0.7.0), 1 week ago) - Kubernetes Cloud Controller Provider implementation for IronCore
