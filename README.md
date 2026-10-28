@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [rook/rook](https://github.com/rook/rook) ([v1.21.1](https://github.com/rook/rook/releases/tag/v1.21.1), 1 day ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.15.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.15.0), 6 days ago) - Utility library for writing Kubernetes controllers
+- [rook/rook](https://github.com/rook/rook) ([v1.21.1](https://github.com/rook/rook/releases/tag/v1.21.1), 2 days ago) - Storage Orchestration for Kubernetes
+- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.15.0](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.15.0), 1 week ago) - Utility library for writing Kubernetes controllers
 - [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) ([v0.8.1](https://github.com/ironcore-dev/gardener-extension-provider-ironcore/releases/tag/v0.8.1), 1 week ago) - Gardener extension controller for the IronCore cloud provider
