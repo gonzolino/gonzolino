@@ -4,8 +4,8 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 👷 My latest contributions
 
-- [ironcore-dev/community](https://github.com/ironcore-dev/community) - Governance documentation and automation (1 day ago)
-- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (6 days ago)
+- [ironcore-dev/ceph-provider](https://github.com/ironcore-dev/ceph-provider) - Ceph provider implementation of the IronCore storage interface (1 day ago)
+- [ironcore-dev/community](https://github.com/ironcore-dev/community) - Governance documentation and automation (2 days ago)
 - [gonzolino/tado-window-control](https://github.com/gonzolino/tado-window-control) - Cloud function to control the window state of a tado zone (1 month ago)
 
 #### 🌱 My latest projects
@@ -16,6 +16,6 @@ I'm Daniel, a Cloud Architect and Developer working with Kubernetes and other cl
 
 #### 🔭 Latest releases I've contributed to
 
-- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.15.1](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.15.1), 6 days ago) - Utility library for writing Kubernetes controllers
-- [rook/rook](https://github.com/rook/rook) ([v1.21.1](https://github.com/rook/rook/releases/tag/v1.21.1), 1 week ago) - Storage Orchestration for Kubernetes
-- [ironcore-dev/gardener-extension-provider-ironcore](https://github.com/ironcore-dev/gardener-extension-provider-ironcore) ([v0.8.1](https://github.com/ironcore-dev/gardener-extension-provider-ironcore/releases/tag/v0.8.1), 2 weeks ago) - Gardener extension controller for the IronCore cloud provider
+- [ironcore-dev/metalnet](https://github.com/ironcore-dev/metalnet) ([v0.4.0](https://github.com/ironcore-dev/metalnet/releases/tag/v0.4.0), 1 day ago) - Kubernetes controller managing dpservice networking resources
+- [ironcore-dev/ironcore](https://github.com/ironcore-dev/ironcore) ([v0.9.0](https://github.com/ironcore-dev/ironcore/releases/tag/v0.9.0), 1 day ago) - Cloud Native Infrastructure as a Service
+- [ironcore-dev/controller-utils](https://github.com/ironcore-dev/controller-utils) ([v0.15.1](https://github.com/ironcore-dev/controller-utils/releases/tag/v0.15.1), 1 week ago) - Utility library for writing Kubernetes controllers
